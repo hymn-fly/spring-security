@@ -1,8 +1,6 @@
 server:
   port: 9050
 
-
-
 spring:
   security:
     user:
